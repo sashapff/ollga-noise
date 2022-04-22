@@ -1,4 +1,4 @@
-from math import e, log
+from math import e, log, ceil
 from multiprocessing import Pool
 import numpy as np
 
@@ -56,12 +56,13 @@ def crossover(n, lmbd, q, x, x_mutated):
 
 def ollga(n, lmbd, q=1/(6*e)):
     n_iters = 0
-    x = np.random.randint(2, size=n)
+    x = np.ones(n)
+    x[:ceil(np.sqrt(n))] = 0
     f_x = f_noisy(x, q)
-    while f(x) != n:
+    while f(x) != n and n_iters < n ** 3:
         x_mutated, _ = mutation(n, lmbd, q, x)
         y, f_y = crossover(n, lmbd, q, x, x_mutated)
-        if f_x <= f_y and n_iters < n ** 3:
+        if f_x <= f_y:
             x = y
             f_x = f_y
         n_iters += 1
@@ -69,8 +70,8 @@ def ollga(n, lmbd, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 5
-    deg_to = 6
+    deg_from = 6
+    deg_to = 7
     np.random.seed(thread_id)
     for deg in range(deg_from, deg_to):
         n = 2 ** deg

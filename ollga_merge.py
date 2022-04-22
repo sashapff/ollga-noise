@@ -5,8 +5,8 @@ import numpy as np
 if __name__ == '__main__':
     n_threads = 32
     n_runs = 4
-    deg_from = 5
-    deg_to = 6
+    deg_from = 6
+    deg_to = 7
 
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
@@ -18,8 +18,8 @@ if __name__ == '__main__':
                         iters.append(int(f.readline()))
             iters = np.array(iters)
             with open(f'result/n_{n}_lambda_{lmbd}.txt', 'w') as f:
-                f.write(f'n: {n}')
-                f.write(f'lambda: {lmbd}')
+                f.write(f'n: {n}\n')
+                f.write(f'lambda: {lmbd}\n')
                 f.write(f'Median: {np.median(iters)}\n')
                 f.write(f'Mean: {iters.mean()}\n')
                 f.write(f'Std: {iters.std()}\n')
