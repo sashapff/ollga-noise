@@ -70,8 +70,8 @@ def ollga(n, lmbd, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 6
-    deg_to = 7
+    deg_from = 7
+    deg_to = 8
     np.random.seed(thread_id)
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
