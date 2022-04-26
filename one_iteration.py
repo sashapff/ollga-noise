@@ -75,7 +75,7 @@ def thread_main(thread_id, n_runs=4):
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
         for lmbd in [int(log(n)), int(n ** (2 / 3)), int(sqrt(n))]:
-            with open(f'iter/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
+            with open(f'iter_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
                 for run_id in range(n_runs):
                     l, f_x_mutated, offspring_fs, offspring_fs_noisy = run_iter(n, lmbd)
                     f.write(f'l: {l}\n')

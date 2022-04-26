@@ -11,12 +11,13 @@ def f(x):
     return x.sum()
 
 
-def f_noisy(x, q):
-    x_noisy = x.copy()
-    for i in range(len(x)):
-        if np.random.uniform() < q:
-            flip(x_noisy, i)
-    return f(x_noisy)
+def f_noisy(x, q, n):
+    return f(x)
+    # x_noisy = x.copy()
+    # for i in range(len(x)):
+    #     if np.random.uniform() < q / n:
+    #         flip(x_noisy, i)
+    # return f(x_noisy)
 
 
 def mutation(n, lmbd, q, x):
@@ -28,7 +29,7 @@ def mutation(n, lmbd, q, x):
         idx = np.random.choice(n, l, replace=False)
         for i in idx:
             flip(y, i)
-        f_y = f_noisy(y, q)
+        f_y = f_noisy(y, q, n)
 
         if f_y > f_x_mutated:
             x_mutated = y
@@ -45,7 +46,7 @@ def crossover(n, lmbd, q, x, x_mutated):
         for i in range(n):
             if x[i] != x_mutated[i] and np.random.uniform() < 1 / lmbd:
                 flip(y, i)
-        f_y = f_noisy(y, q)
+        f_y = f_noisy(y, q, n)
 
         if f_y > f_y_crossover:
             y_crossover = y
@@ -56,10 +57,11 @@ def crossover(n, lmbd, q, x, x_mutated):
 
 def ollga(n, lmbd, q=1/(6*e)):
     n_iters = 0
-    x = np.ones(n)
-    x[:ceil(np.sqrt(n))] = 0
-    f_x = f_noisy(x, q)
-    while f(x) != n and n_iters < n ** 3:
+    x = np.random.randint(2, size=n)
+    # x = np.ones(n)
+    # x[:ceil(np.sqrt(n))] = 0
+    f_x = f_noisy(x, q, n)
+    while f(x) != n and n_iters < n ** 2:
         x_mutated, _ = mutation(n, lmbd, q, x)
         y, f_y = crossover(n, lmbd, q, x, x_mutated)
         if f_x <= f_y:
@@ -70,13 +72,13 @@ def ollga(n, lmbd, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 7
-    deg_to = 8
+    deg_from = 10
+    deg_to = 11
     np.random.seed(thread_id)
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
         for lmbd in [int(log(n)), int(n ** (2 / 3))]:
-            with open(f'iters/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
+            with open(f'without_noise_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
                 for run_id in range(n_runs):
                     f.write(f'{ollga(n, lmbd)}\n')
 
