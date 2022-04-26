@@ -70,8 +70,8 @@ def run_iter(n, lmbd, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 5
-    deg_to = 11
+    deg_from = 11
+    deg_to = 12
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
         for lmbd in [int(log(n)), int(n ** (2 / 3)), int(sqrt(n))]:
