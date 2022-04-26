@@ -1,0 +1,20 @@
+l: 6
+Fitness of mutation winner: 35.0
+Crossover offspring real fitness: [32.0, 35.0, 32.0, 33.0]
+Crossover offspring noisy fitness: [32.0, 35.0, 32.0, 32.0]
+
+l: 5
+Fitness of mutation winner: 35.0
+Crossover offspring real fitness: [31.0, 33.0, 33.0, 33.0]
+Crossover offspring noisy fitness: [31.0, 33.0, 33.0, 33.0]
+
+l: 7
+Fitness of mutation winner: 33.0
+Crossover offspring real fitness: [33.0, 32.0, 33.0, 33.0]
+Crossover offspring noisy fitness: [33.0, 32.0, 33.0, 33.0]
+
+l: 6
+Fitness of mutation winner: 36.0
+Crossover offspring real fitness: [32.0, 33.0, 34.0, 34.0]
+Crossover offspring noisy fitness: [32.0, 33.0, 34.0, 34.0]
+

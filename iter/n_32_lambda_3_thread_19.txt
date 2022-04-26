@@ -1,0 +1,20 @@
+l: 5
+Fitness of mutation winner: 19.0
+Crossover offspring real fitness: [17.0, 18.0, 16.0]
+Crossover offspring noisy fitness: [17.0, 18.0, 16.0]
+
+l: 5
+Fitness of mutation winner: 19.0
+Crossover offspring real fitness: [17.0, 16.0, 17.0]
+Crossover offspring noisy fitness: [17.0, 16.0, 17.0]
+
+l: 5
+Fitness of mutation winner: 17.0
+Crossover offspring real fitness: [17.0, 16.0, 17.0]
+Crossover offspring noisy fitness: [17.0, 16.0, 17.0]
+
+l: 5
+Fitness of mutation winner: 19.0
+Crossover offspring real fitness: [18.0, 16.0, 16.0]
+Crossover offspring noisy fitness: [18.0, 16.0, 15.0]
+
