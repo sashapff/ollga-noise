@@ -66,20 +66,21 @@ def run_iter(n, lmbd, q=1/(6*e)):
     x_mutated, f_x_mutated, l = mutation(n, lmbd, q, x)
     y, f_y, offspring_fs, offspring_fs_noisy = crossover(n, lmbd, q, x, x_mutated)
 
-    return l, f_x_mutated, offspring_fs, offspring_fs_noisy
+    return l, f(x_mutated), f_x_mutated, offspring_fs, offspring_fs_noisy
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 11
+    deg_from = 9
     deg_to = 12
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
         for lmbd in [int(log(n)), int(n ** (2 / 3)), int(sqrt(n))]:
-            with open(f'iter_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
+            with open(f'../iter_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
                 for run_id in range(n_runs):
-                    l, f_x_mutated, offspring_fs, offspring_fs_noisy = run_iter(n, lmbd)
+                    l, f_x, f_x_mutated, offspring_fs, offspring_fs_noisy = run_iter(n, lmbd)
                     f.write(f'l: {l}\n')
-                    f.write(f'Fitness of mutation winner: {f_x_mutated}\n')
+                    f.write(f'Real fitness of mutation winner: {f_x}\n')
+                    f.write(f'Noisy fitness of mutation winner: {f_x_mutated}\n')
                     f.write(f'Crossover offspring real fitness: {offspring_fs}\n')
                     f.write(f'Crossover offspring noisy fitness: {offspring_fs_noisy}\n')
                     f.write(f'\n')

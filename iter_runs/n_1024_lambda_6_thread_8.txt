@@ -1,20 +1,24 @@
-l: 11
-Fitness of mutation winner: 515.0
-Crossover offspring real fitness: [512.0, 513.0, 515.0, 511.0, 515.0, 512.0]
-Crossover offspring noisy fitness: [513.0, 513.0, 515.0, 511.0, 515.0, 512.0]
+l: 3
+Real fitness of mutation winner: 511.0
+Noisy fitness of mutation winner: 511.0
+Crossover offspring real fitness: [511.0, 512.0, 511.0, 512.0, 512.0, 512.0]
+Crossover offspring noisy fitness: [511.0, 512.0, 511.0, 512.0, 512.0, 512.0]
 
 l: 5
-Fitness of mutation winner: 515.0
-Crossover offspring real fitness: [513.0, 513.0, 511.0, 512.0, 513.0, 513.0]
-Crossover offspring noisy fitness: [513.0, 513.0, 511.0, 512.0, 513.0, 513.0]
+Real fitness of mutation winner: 511.0
+Noisy fitness of mutation winner: 511.0
+Crossover offspring real fitness: [513.0, 513.0, 512.0, 512.0, 513.0, 513.0]
+Crossover offspring noisy fitness: [513.0, 513.0, 512.0, 512.0, 513.0, 513.0]
 
 l: 9
-Fitness of mutation winner: 517.0
-Crossover offspring real fitness: [511.0, 513.0, 511.0, 512.0, 512.0, 514.0]
-Crossover offspring noisy fitness: [511.0, 513.0, 511.0, 513.0, 512.0, 514.0]
+Real fitness of mutation winner: 513.0
+Noisy fitness of mutation winner: 513.0
+Crossover offspring real fitness: [515.0, 514.0, 513.0, 512.0, 513.0, 510.0]
+Crossover offspring noisy fitness: [515.0, 514.0, 513.0, 512.0, 513.0, 510.0]
 
-l: 13
-Fitness of mutation winner: 517.0
-Crossover offspring real fitness: [511.0, 512.0, 512.0, 513.0, 514.0, 514.0]
-Crossover offspring noisy fitness: [511.0, 512.0, 512.0, 513.0, 515.0, 514.0]
+l: 8
+Real fitness of mutation winner: 516.0
+Noisy fitness of mutation winner: 516.0
+Crossover offspring real fitness: [514.0, 512.0, 512.0, 514.0, 513.0, 514.0]
+Crossover offspring noisy fitness: [514.0, 512.0, 512.0, 514.0, 513.0, 514.0]
 

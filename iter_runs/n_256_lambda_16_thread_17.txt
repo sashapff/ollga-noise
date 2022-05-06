@@ -1,20 +1,24 @@
-l: 13
-Fitness of mutation winner: 131.0
-Crossover offspring real fitness: [128.0, 127.0, 129.0, 129.0, 128.0, 127.0, 128.0, 129.0, 127.0, 128.0, 128.0, 128.0, 127.0, 128.0, 129.0, 128.0]
-Crossover offspring noisy fitness: [128.0, 127.0, 129.0, 129.0, 128.0, 127.0, 128.0, 129.0, 127.0, 128.0, 129.0, 128.0, 127.0, 128.0, 129.0, 128.0]
+l: 18
+Real fitness of mutation winner: 136.0
+Noisy fitness of mutation winner: 136.0
+Crossover offspring real fitness: [128.0, 128.0, 127.0, 130.0, 129.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 130.0, 130.0, 130.0, 128.0, 127.0]
+Crossover offspring noisy fitness: [128.0, 128.0, 127.0, 130.0, 129.0, 128.0, 128.0, 127.0, 128.0, 128.0, 128.0, 130.0, 130.0, 130.0, 128.0, 127.0]
 
-l: 13
-Fitness of mutation winner: 135.0
-Crossover offspring real fitness: [129.0, 129.0, 129.0, 127.0, 128.0, 129.0, 128.0, 129.0, 129.0, 131.0, 129.0, 129.0, 127.0, 127.0, 128.0, 129.0]
-Crossover offspring noisy fitness: [129.0, 129.0, 129.0, 127.0, 128.0, 129.0, 128.0, 129.0, 129.0, 131.0, 129.0, 129.0, 127.0, 127.0, 128.0, 129.0]
+l: 11
+Real fitness of mutation winner: 135.0
+Noisy fitness of mutation winner: 135.0
+Crossover offspring real fitness: [128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 129.0, 128.0, 128.0, 127.0, 130.0, 128.0, 128.0, 128.0, 128.0, 128.0]
+Crossover offspring noisy fitness: [128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 129.0, 128.0, 128.0, 127.0, 130.0, 128.0, 128.0, 127.0, 128.0, 128.0]
 
-l: 8
-Fitness of mutation winner: 134.0
-Crossover offspring real fitness: [129.0, 130.0, 128.0, 129.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 127.0, 130.0, 129.0]
-Crossover offspring noisy fitness: [129.0, 130.0, 128.0, 129.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 128.0, 127.0, 128.0, 127.0, 130.0, 129.0]
+l: 11
+Real fitness of mutation winner: 131.0
+Noisy fitness of mutation winner: 131.0
+Crossover offspring real fitness: [128.0, 128.0, 127.0, 129.0, 127.0, 128.0, 128.0, 128.0, 127.0, 128.0, 127.0, 128.0, 127.0, 128.0, 127.0, 128.0]
+Crossover offspring noisy fitness: [128.0, 128.0, 127.0, 129.0, 127.0, 128.0, 128.0, 128.0, 127.0, 128.0, 127.0, 128.0, 127.0, 128.0, 127.0, 128.0]
 
-l: 17
-Fitness of mutation winner: 141.0
-Crossover offspring real fitness: [129.0, 129.0, 129.0, 129.0, 128.0, 129.0, 128.0, 127.0, 127.0, 129.0, 129.0, 129.0, 130.0, 129.0, 129.0, 129.0]
-Crossover offspring noisy fitness: [129.0, 129.0, 129.0, 130.0, 128.0, 129.0, 128.0, 127.0, 127.0, 129.0, 129.0, 129.0, 130.0, 129.0, 129.0, 130.0]
+l: 14
+Real fitness of mutation winner: 134.0
+Noisy fitness of mutation winner: 134.0
+Crossover offspring real fitness: [128.0, 129.0, 128.0, 129.0, 128.0, 129.0, 128.0, 129.0, 129.0, 129.0, 128.0, 129.0, 128.0, 128.0, 130.0, 128.0]
+Crossover offspring noisy fitness: [128.0, 129.0, 128.0, 129.0, 128.0, 129.0, 128.0, 129.0, 129.0, 129.0, 128.0, 129.0, 129.0, 128.0, 130.0, 128.0]
 

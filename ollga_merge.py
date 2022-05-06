@@ -5,8 +5,8 @@ import numpy as np
 if __name__ == '__main__':
     n_threads = 32
     n_runs = 4
-    deg_from = 10
-    deg_to = 11
+    deg_from = 5
+    deg_to = 12
 
     for deg in range(deg_from, deg_to):
         n = 2 ** deg

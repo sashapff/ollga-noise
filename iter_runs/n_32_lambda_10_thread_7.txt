@@ -1,20 +1,24 @@
-l: 10
-Fitness of mutation winner: 18.0
-Crossover offspring real fitness: [16.0, 16.0, 17.0, 16.0, 16.0, 15.0, 16.0, 17.0, 17.0, 18.0]
-Crossover offspring noisy fitness: [16.0, 16.0, 16.0, 16.0, 16.0, 15.0, 16.0, 17.0, 17.0, 18.0]
-
-l: 4
-Fitness of mutation winner: 18.0
-Crossover offspring real fitness: [17.0, 17.0, 16.0, 17.0, 17.0, 16.0, 16.0, 16.0, 17.0, 16.0]
-Crossover offspring noisy fitness: [17.0, 17.0, 16.0, 17.0, 17.0, 16.0, 16.0, 16.0, 17.0, 16.0]
-
 l: 15
-Fitness of mutation winner: 23.0
-Crossover offspring real fitness: [16.0, 18.0, 17.0, 19.0, 16.0, 17.0, 19.0, 17.0, 17.0, 15.0]
-Crossover offspring noisy fitness: [16.0, 18.0, 17.0, 19.0, 16.0, 17.0, 19.0, 16.0, 16.0, 15.0]
+Real fitness of mutation winner: 19.0
+Noisy fitness of mutation winner: 19.0
+Crossover offspring real fitness: [17.0, 15.0, 18.0, 17.0, 16.0, 16.0, 18.0, 16.0, 16.0, 15.0]
+Crossover offspring noisy fitness: [17.0, 15.0, 18.0, 17.0, 16.0, 16.0, 18.0, 16.0, 16.0, 15.0]
 
-l: 8
-Fitness of mutation winner: 20.0
-Crossover offspring real fitness: [17.0, 16.0, 16.0, 16.0, 16.0, 18.0, 16.0, 18.0, 17.0, 15.0]
-Crossover offspring noisy fitness: [17.0, 16.0, 16.0, 16.0, 16.0, 18.0, 16.0, 18.0, 17.0, 15.0]
+l: 13
+Real fitness of mutation winner: 23.0
+Noisy fitness of mutation winner: 23.0
+Crossover offspring real fitness: [16.0, 17.0, 17.0, 16.0, 17.0, 16.0, 17.0, 16.0, 19.0, 17.0]
+Crossover offspring noisy fitness: [16.0, 16.0, 17.0, 16.0, 16.0, 16.0, 17.0, 17.0, 19.0, 17.0]
+
+l: 7
+Real fitness of mutation winner: 21.0
+Noisy fitness of mutation winner: 21.0
+Crossover offspring real fitness: [17.0, 18.0, 17.0, 16.0, 16.0, 18.0, 17.0, 16.0, 16.0, 16.0]
+Crossover offspring noisy fitness: [17.0, 18.0, 17.0, 16.0, 16.0, 18.0, 17.0, 16.0, 16.0, 16.0]
+
+l: 12
+Real fitness of mutation winner: 24.0
+Noisy fitness of mutation winner: 24.0
+Crossover offspring real fitness: [16.0, 16.0, 19.0, 17.0, 18.0, 17.0, 16.0, 16.0, 18.0, 17.0]
+Crossover offspring noisy fitness: [16.0, 16.0, 19.0, 17.0, 18.0, 17.0, 16.0, 16.0, 18.0, 17.0]
 

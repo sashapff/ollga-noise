@@ -1,20 +1,24 @@
-l: 8
-Fitness of mutation winner: 69.0
-Crossover offspring real fitness: [65.0, 64.0, 64.0, 64.0, 64.0, 63.0, 63.0, 63.0, 64.0, 64.0, 64.0]
-Crossover offspring noisy fitness: [65.0, 64.0, 64.0, 64.0, 64.0, 63.0, 63.0, 63.0, 64.0, 63.0, 64.0]
+l: 12
+Real fitness of mutation winner: 70.0
+Noisy fitness of mutation winner: 70.0
+Crossover offspring real fitness: [65.0, 64.0, 64.0, 66.0, 64.0, 66.0, 66.0, 64.0, 65.0, 65.0, 63.0]
+Crossover offspring noisy fitness: [65.0, 64.0, 64.0, 66.0, 64.0, 66.0, 66.0, 64.0, 65.0, 65.0, 63.0]
 
-l: 8
-Fitness of mutation winner: 68.0
-Crossover offspring real fitness: [66.0, 65.0, 64.0, 64.0, 64.0, 64.0, 64.0, 65.0, 65.0, 64.0, 65.0]
-Crossover offspring noisy fitness: [66.0, 65.0, 64.0, 64.0, 64.0, 64.0, 64.0, 65.0, 65.0, 64.0, 65.0]
-
-l: 8
-Fitness of mutation winner: 70.0
-Crossover offspring real fitness: [65.0, 64.0, 65.0, 65.0, 65.0, 63.0, 65.0, 65.0, 64.0, 64.0, 65.0]
-Crossover offspring noisy fitness: [65.0, 64.0, 65.0, 65.0, 65.0, 63.0, 65.0, 65.0, 64.0, 64.0, 65.0]
+l: 10
+Real fitness of mutation winner: 68.0
+Noisy fitness of mutation winner: 68.0
+Crossover offspring real fitness: [64.0, 65.0, 63.0, 65.0, 64.0, 65.0, 66.0, 65.0, 68.0, 67.0, 64.0]
+Crossover offspring noisy fitness: [64.0, 65.0, 63.0, 65.0, 64.0, 65.0, 66.0, 65.0, 68.0, 68.0, 64.0]
 
 l: 13
-Fitness of mutation winner: 69.0
-Crossover offspring real fitness: [64.0, 65.0, 66.0, 65.0, 66.0, 66.0, 65.0, 65.0, 64.0, 64.0, 64.0]
-Crossover offspring noisy fitness: [64.0, 65.0, 66.0, 65.0, 66.0, 66.0, 65.0, 65.0, 63.0, 64.0, 64.0]
+Real fitness of mutation winner: 69.0
+Noisy fitness of mutation winner: 69.0
+Crossover offspring real fitness: [66.0, 65.0, 63.0, 64.0, 64.0, 65.0, 63.0, 66.0, 66.0, 66.0, 65.0]
+Crossover offspring noisy fitness: [66.0, 65.0, 63.0, 64.0, 64.0, 65.0, 63.0, 66.0, 66.0, 66.0, 65.0]
+
+l: 4
+Real fitness of mutation winner: 68.0
+Noisy fitness of mutation winner: 68.0
+Crossover offspring real fitness: [65.0, 64.0, 64.0, 64.0, 64.0, 65.0, 64.0, 65.0, 64.0, 64.0, 64.0]
+Crossover offspring noisy fitness: [65.0, 63.0, 64.0, 63.0, 64.0, 65.0, 64.0, 65.0, 64.0, 64.0, 65.0]
 

@@ -1,20 +1,24 @@
-l: 3
-Fitness of mutation winner: 65.0
-Crossover offspring real fitness: [64.0, 65.0, 64.0, 63.0]
-Crossover offspring noisy fitness: [64.0, 65.0, 64.0, 62.0]
-
 l: 2
-Fitness of mutation winner: 64.0
-Crossover offspring real fitness: [64.0, 64.0, 64.0, 63.0]
-Crossover offspring noisy fitness: [64.0, 64.0, 64.0, 63.0]
+Real fitness of mutation winner: 64.0
+Noisy fitness of mutation winner: 65.0
+Crossover offspring real fitness: [63.0, 63.0, 64.0, 65.0]
+Crossover offspring noisy fitness: [63.0, 63.0, 64.0, 65.0]
 
-l: 7
-Fitness of mutation winner: 67.0
-Crossover offspring real fitness: [64.0, 66.0, 64.0, 65.0]
+l: 3
+Real fitness of mutation winner: 65.0
+Noisy fitness of mutation winner: 65.0
+Crossover offspring real fitness: [64.0, 64.0, 65.0, 64.0]
+Crossover offspring noisy fitness: [64.0, 64.0, 65.0, 64.0]
+
+l: 4
+Real fitness of mutation winner: 66.0
+Noisy fitness of mutation winner: 66.0
+Crossover offspring real fitness: [64.0, 66.0, 63.0, 65.0]
 Crossover offspring noisy fitness: [64.0, 66.0, 63.0, 65.0]
 
-l: 3
-Fitness of mutation winner: 65.0
-Crossover offspring real fitness: [63.0, 64.0, 65.0, 64.0]
-Crossover offspring noisy fitness: [62.0, 64.0, 65.0, 64.0]
+l: 2
+Real fitness of mutation winner: 66.0
+Noisy fitness of mutation winner: 66.0
+Crossover offspring real fitness: [64.0, 64.0, 65.0, 65.0]
+Crossover offspring noisy fitness: [64.0, 64.0, 65.0, 65.0]
 

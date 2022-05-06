@@ -1,20 +1,24 @@
-l: 3
-Fitness of mutation winner: 129.0
-Crossover offspring real fitness: [128.0, 128.0, 128.0, 129.0, 128.0]
-Crossover offspring noisy fitness: [128.0, 128.0, 128.0, 129.0, 128.0]
+l: 8
+Real fitness of mutation winner: 134.0
+Noisy fitness of mutation winner: 134.0
+Crossover offspring real fitness: [132.0, 128.0, 129.0, 129.0, 128.0]
+Crossover offspring noisy fitness: [132.0, 128.0, 129.0, 129.0, 128.0]
 
-l: 6
-Fitness of mutation winner: 130.0
-Crossover offspring real fitness: [130.0, 129.0, 129.0, 128.0, 128.0]
-Crossover offspring noisy fitness: [130.0, 128.0, 129.0, 128.0, 128.0]
+l: 9
+Real fitness of mutation winner: 131.0
+Noisy fitness of mutation winner: 131.0
+Crossover offspring real fitness: [129.0, 128.0, 129.0, 128.0, 130.0]
+Crossover offspring noisy fitness: [129.0, 128.0, 129.0, 128.0, 130.0]
 
-l: 7
-Fitness of mutation winner: 133.0
-Crossover offspring real fitness: [128.0, 131.0, 128.0, 131.0, 129.0]
-Crossover offspring noisy fitness: [128.0, 131.0, 128.0, 131.0, 129.0]
+l: 4
+Real fitness of mutation winner: 130.0
+Noisy fitness of mutation winner: 130.0
+Crossover offspring real fitness: [129.0, 129.0, 128.0, 128.0, 129.0]
+Crossover offspring noisy fitness: [129.0, 129.0, 128.0, 128.0, 129.0]
 
-l: 11
-Fitness of mutation winner: 130.0
-Crossover offspring real fitness: [128.0, 128.0, 127.0, 130.0, 127.0]
-Crossover offspring noisy fitness: [128.0, 128.0, 127.0, 130.0, 127.0]
+l: 4
+Real fitness of mutation winner: 128.0
+Noisy fitness of mutation winner: 128.0
+Crossover offspring real fitness: [129.0, 128.0, 126.0, 127.0, 129.0]
+Crossover offspring noisy fitness: [129.0, 128.0, 126.0, 127.0, 129.0]
 
