@@ -1,4 +1,4 @@
-from math import e, log, ceil, sqrt
+from math import e, log, sqrt
 from multiprocessing import Pool
 import numpy as np
 
@@ -78,15 +78,16 @@ def crossover(n, lmbd, q, x, x_mutated):
     return y_crossover, f_y_crossover, offspring_fs, offspring_fs_noisy, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad
 
 
-def run_iter(n, lmbd, q=1/(6*e)):
+def run_iter(n, lmbd, n_ones, q=1/(6*e)):
     x = np.zeros(n)
-    x[:int(n - np.log(n))] = 1
+    x[:n_ones] = 1
 
     x_mutated, f_x_mutated, l = mutation(n, lmbd, q, x)
     y, f_y, offspring_fs, offspring_fs_noisy, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad = crossover(n, lmbd, q, x, x_mutated)
     is_bad_winner = 1 if f(y) < f(x) else 0
+    is_good_winner = 1 if f(y) > f(x) else 0
 
-    return l, f(x_mutated), f_x_mutated, offspring_fs, offspring_fs_noisy, is_bad_winner, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad
+    return l, f(x_mutated), f_x_mutated, offspring_fs, offspring_fs_noisy, is_bad_winner, is_good_winner, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad
 
 
 def thread_main(thread_id, n_runs=32):
@@ -95,16 +96,21 @@ def thread_main(thread_id, n_runs=32):
     deg_to = 11
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
+
+        d_file_name = '3n_div_4'
+        n_ones = int(3 * n / 4)
+
         for lmbd in [int(log(n)), int(n ** (2 / 3)), int(sqrt(n))]:
-            with open(f'../iter_runs/n_div_2_n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
+            with open(f'runs/{d_file_name}_n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
                 for run_id in range(n_runs):
-                    l, f_x, f_x_mutated, offspring_fs, offspring_fs_noisy, is_bad_winner, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad = run_iter(n, lmbd)
+                    l, f_x, f_x_mutated, offspring_fs, offspring_fs_noisy, is_bad_winner, is_good_winner, f_best_good, f_noisy_best_good, f_best_bad, f_noisy_best_bad = run_iter(n, lmbd, n_ones)
                     f.write(f'l: {l}\n')
                     f.write(f'Real fitness of mutation winner: {f_x}\n')
                     f.write(f'Noisy fitness of mutation winner: {f_x_mutated}\n')
                     f.write(f'Crossover offspring real fitness: {offspring_fs}\n')
                     f.write(f'Crossover offspring noisy fitness: {offspring_fs_noisy}\n')
                     f.write(f'Is bad individual winner: {is_bad_winner}\n')
+                    f.write(f'Is good individual winner: {is_good_winner}\n')
                     f.write(f'Real fitness of best good: {f_best_good}\n')
                     f.write(f'Noisy fitness of best good: {f_noisy_best_good}\n')
                     f.write(f'Real fitness of best bad: {f_best_bad}\n')

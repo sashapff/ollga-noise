@@ -1,0 +1,384 @@
+l: 7
+Real fitness of mutation winner: 385.0
+Noisy fitness of mutation winner: 385.0
+Crossover offspring real fitness: [385.0, 385.0, 384.0, 383.0, 386.0, 386.0]
+Crossover offspring noisy fitness: [385.0, 385.0, 384.0, 383.0, 386.0, 386.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 386.0
+Noisy fitness of best good: 386.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 5
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 384.0, 384.0, 383.0, 384.0, 385.0]
+Crossover offspring noisy fitness: [383.0, 384.0, 384.0, 383.0, 384.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 2
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [384.0, 384.0, 384.0, 384.0, 385.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 384.0, 384.0, 385.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 3
+Real fitness of mutation winner: 387.0
+Noisy fitness of mutation winner: 387.0
+Crossover offspring real fitness: [384.0, 384.0, 385.0, 385.0, 384.0, 385.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 385.0, 384.0, 383.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 5
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 384.0, 385.0, 385.0, 383.0, 385.0]
+Crossover offspring noisy fitness: [383.0, 384.0, 385.0, 385.0, 383.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 4
+Real fitness of mutation winner: 382.0
+Noisy fitness of mutation winner: 382.0
+Crossover offspring real fitness: [384.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 5
+Real fitness of mutation winner: 385.0
+Noisy fitness of mutation winner: 385.0
+Crossover offspring real fitness: [385.0, 385.0, 384.0, 385.0, 386.0, 385.0]
+Crossover offspring noisy fitness: [385.0, 385.0, 384.0, 385.0, 387.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 386.0
+Noisy fitness of best good: 387.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 4
+Real fitness of mutation winner: 386.0
+Noisy fitness of mutation winner: 386.0
+Crossover offspring real fitness: [385.0, 385.0, 384.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 385.0, 384.0, 384.0, 384.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 5
+Real fitness of mutation winner: 387.0
+Noisy fitness of mutation winner: 387.0
+Crossover offspring real fitness: [384.0, 385.0, 385.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 385.0, 385.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 4
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [384.0, 385.0, 383.0, 384.0, 384.0, 383.0]
+Crossover offspring noisy fitness: [384.0, 385.0, 383.0, 384.0, 384.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 3
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [382.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [382.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: 382.0
+Noisy fitness of best bad: 382.0
+
+l: 11
+Real fitness of mutation winner: 385.0
+Noisy fitness of mutation winner: 385.0
+Crossover offspring real fitness: [384.0, 383.0, 385.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 383.0, 385.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 10
+Real fitness of mutation winner: 382.0
+Noisy fitness of mutation winner: 382.0
+Crossover offspring real fitness: [385.0, 381.0, 385.0, 383.0, 384.0, 383.0]
+Crossover offspring noisy fitness: [385.0, 381.0, 385.0, 383.0, 384.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 6
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [384.0, 384.0, 385.0, 384.0, 384.0, 383.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 385.0, 384.0, 384.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 7
+Real fitness of mutation winner: 385.0
+Noisy fitness of mutation winner: 385.0
+Crossover offspring real fitness: [384.0, 384.0, 384.0, 384.0, 385.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 384.0, 383.0, 385.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 6
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [382.0, 384.0, 384.0, 384.0, 383.0, 384.0]
+Crossover offspring noisy fitness: [382.0, 384.0, 384.0, 384.0, 383.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 8
+Real fitness of mutation winner: 388.0
+Noisy fitness of mutation winner: 388.0
+Crossover offspring real fitness: [384.0, 384.0, 385.0, 385.0, 384.0, 385.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 385.0, 385.0, 384.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 3
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [384.0, 385.0, 384.0, 384.0, 383.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 385.0, 383.0, 384.0, 383.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 8
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [385.0, 384.0, 388.0, 385.0, 383.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 384.0, 388.0, 385.0, 383.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 388.0
+Noisy fitness of best good: 388.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 7
+Real fitness of mutation winner: 385.0
+Noisy fitness of mutation winner: 386.0
+Crossover offspring real fitness: [384.0, 386.0, 384.0, 384.0, 385.0, 385.0]
+Crossover offspring noisy fitness: [384.0, 386.0, 384.0, 385.0, 385.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 386.0
+Noisy fitness of best good: 386.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 6
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [382.0, 385.0, 384.0, 385.0, 385.0, 385.0]
+Crossover offspring noisy fitness: [382.0, 385.0, 384.0, 385.0, 385.0, 385.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 382.0
+Noisy fitness of best bad: 382.0
+
+l: 5
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 384.0, 384.0, 384.0, 385.0, 385.0]
+Crossover offspring noisy fitness: [383.0, 384.0, 384.0, 384.0, 386.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 386.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 8
+Real fitness of mutation winner: 380.0
+Noisy fitness of mutation winner: 380.0
+Crossover offspring real fitness: [382.0, 384.0, 382.0, 385.0, 382.0, 383.0]
+Crossover offspring noisy fitness: [382.0, 384.0, 382.0, 385.0, 382.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 8
+Real fitness of mutation winner: 380.0
+Noisy fitness of mutation winner: 380.0
+Crossover offspring real fitness: [385.0, 384.0, 383.0, 383.0, 383.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 384.0, 383.0, 383.0, 383.0, 383.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 2
+Real fitness of mutation winner: 386.0
+Noisy fitness of mutation winner: 386.0
+Crossover offspring real fitness: [385.0, 384.0, 384.0, 385.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 384.0, 384.0, 385.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 9
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 383.0, 384.0, 383.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [383.0, 383.0, 384.0, 383.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 9
+Real fitness of mutation winner: 381.0
+Noisy fitness of mutation winner: 381.0
+Crossover offspring real fitness: [382.0, 382.0, 385.0, 382.0, 384.0, 382.0]
+Crossover offspring noisy fitness: [381.0, 382.0, 385.0, 382.0, 384.0, 382.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 382.0
+Noisy fitness of best bad: 382.0
+
+l: 5
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 384.0, 384.0, 383.0, 384.0, 382.0]
+Crossover offspring noisy fitness: [383.0, 384.0, 384.0, 383.0, 384.0, 382.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 5
+Real fitness of mutation winner: 383.0
+Noisy fitness of mutation winner: 383.0
+Crossover offspring real fitness: [383.0, 384.0, 383.0, 385.0, 382.0, 384.0]
+Crossover offspring noisy fitness: [383.0, 384.0, 383.0, 385.0, 382.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 2
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [385.0, 383.0, 384.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 383.0, 384.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 383.0
+Noisy fitness of best bad: 383.0
+
+l: 2
+Real fitness of mutation winner: 386.0
+Noisy fitness of mutation winner: 386.0
+Crossover offspring real fitness: [384.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Crossover offspring noisy fitness: [384.0, 384.0, 384.0, 384.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 384.0
+Noisy fitness of best good: 384.0
+Real fitness of best bad: -1
+Noisy fitness of best bad: -1
+
+l: 8
+Real fitness of mutation winner: 384.0
+Noisy fitness of mutation winner: 384.0
+Crossover offspring real fitness: [385.0, 382.0, 384.0, 385.0, 385.0, 384.0]
+Crossover offspring noisy fitness: [385.0, 382.0, 384.0, 385.0, 384.0, 384.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 385.0
+Noisy fitness of best good: 385.0
+Real fitness of best bad: 382.0
+Noisy fitness of best bad: 382.0
+

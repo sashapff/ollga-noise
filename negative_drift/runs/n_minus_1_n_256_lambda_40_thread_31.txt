@@ -1,0 +1,384 @@
+l: 43
+Real fitness of mutation winner: 214.0
+Noisy fitness of mutation winner: 214.0
+Crossover offspring real fitness: [254.0, 253.0, 254.0, 253.0, 255.0, 253.0, 254.0, 255.0, 253.0, 254.0, 252.0, 255.0, 253.0, 254.0, 255.0, 254.0, 255.0, 252.0, 253.0, 254.0, 254.0, 254.0, 255.0, 255.0, 252.0, 252.0, 255.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 253.0, 255.0, 251.0, 253.0, 255.0]
+Crossover offspring noisy fitness: [254.0, 253.0, 254.0, 253.0, 255.0, 253.0, 254.0, 255.0, 253.0, 254.0, 252.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 252.0, 253.0, 254.0, 254.0, 253.0, 255.0, 254.0, 252.0, 252.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 253.0, 255.0, 251.0, 253.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 38
+Real fitness of mutation winner: 219.0
+Noisy fitness of mutation winner: 219.0
+Crossover offspring real fitness: [255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 252.0, 254.0, 255.0, 255.0, 255.0, 253.0, 255.0, 253.0, 255.0, 255.0, 253.0, 254.0, 255.0, 254.0, 255.0, 254.0, 252.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 253.0, 253.0, 253.0, 255.0, 255.0, 253.0, 255.0, 253.0, 253.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 254.0, 253.0, 252.0, 254.0, 255.0, 255.0, 255.0, 253.0, 255.0, 253.0, 255.0, 255.0, 253.0, 254.0, 255.0, 254.0, 255.0, 254.0, 252.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 253.0, 253.0, 253.0, 255.0, 255.0, 253.0, 255.0, 253.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 33
+Real fitness of mutation winner: 224.0
+Noisy fitness of mutation winner: 224.0
+Crossover offspring real fitness: [254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 254.0, 254.0, 251.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 253.0, 255.0, 254.0, 255.0, 252.0]
+Crossover offspring noisy fitness: [254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 254.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 251.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 253.0, 255.0, 254.0, 255.0, 252.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 37
+Real fitness of mutation winner: 220.0
+Noisy fitness of mutation winner: 220.0
+Crossover offspring real fitness: [255.0, 254.0, 254.0, 254.0, 253.0, 255.0, 255.0, 255.0, 254.0, 253.0, 255.0, 254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 254.0, 254.0, 252.0, 255.0, 253.0, 253.0, 255.0, 255.0, 253.0, 252.0, 254.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 256.0, 255.0]
+Crossover offspring noisy fitness: [255.0, 254.0, 254.0, 254.0, 253.0, 254.0, 255.0, 255.0, 254.0, 253.0, 255.0, 254.0, 253.0, 255.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 254.0, 254.0, 252.0, 255.0, 253.0, 253.0, 255.0, 255.0, 253.0, 252.0, 254.0, 253.0, 253.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 256.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 35
+Real fitness of mutation winner: 222.0
+Noisy fitness of mutation winner: 222.0
+Crossover offspring real fitness: [253.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 254.0, 254.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 254.0, 255.0, 252.0, 255.0, 255.0, 254.0, 253.0, 255.0]
+Crossover offspring noisy fitness: [253.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 254.0, 253.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 254.0, 252.0, 255.0, 255.0, 254.0, 253.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 46
+Real fitness of mutation winner: 211.0
+Noisy fitness of mutation winner: 211.0
+Crossover offspring real fitness: [255.0, 254.0, 255.0, 252.0, 254.0, 251.0, 254.0, 255.0, 252.0, 254.0, 252.0, 255.0, 254.0, 255.0, 252.0, 253.0, 254.0, 254.0, 254.0, 255.0, 254.0, 256.0, 256.0, 255.0, 254.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0]
+Crossover offspring noisy fitness: [255.0, 254.0, 255.0, 252.0, 254.0, 251.0, 254.0, 255.0, 252.0, 254.0, 252.0, 255.0, 254.0, 255.0, 252.0, 253.0, 254.0, 254.0, 254.0, 255.0, 254.0, 256.0, 256.0, 254.0, 254.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 32
+Real fitness of mutation winner: 225.0
+Noisy fitness of mutation winner: 225.0
+Crossover offspring real fitness: [255.0, 254.0, 255.0, 253.0, 255.0, 253.0, 254.0, 252.0, 252.0, 255.0, 252.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 253.0, 252.0, 254.0, 251.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 256.0, 255.0, 255.0, 253.0, 255.0]
+Crossover offspring noisy fitness: [255.0, 254.0, 255.0, 253.0, 255.0, 253.0, 254.0, 252.0, 252.0, 255.0, 252.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 253.0, 252.0, 254.0, 251.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 256.0, 255.0, 255.0, 253.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 42
+Real fitness of mutation winner: 215.0
+Noisy fitness of mutation winner: 215.0
+Crossover offspring real fitness: [255.0, 255.0, 255.0, 255.0, 255.0, 252.0, 255.0, 255.0, 255.0, 253.0, 253.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 252.0, 252.0, 253.0, 254.0, 253.0, 254.0, 255.0, 251.0, 255.0, 255.0, 255.0, 255.0, 255.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 255.0, 255.0, 255.0, 252.0, 255.0, 255.0, 255.0, 253.0, 251.0, 255.0, 254.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 252.0, 252.0, 253.0, 254.0, 253.0, 254.0, 255.0, 251.0, 255.0, 255.0, 255.0, 255.0, 255.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 33
+Real fitness of mutation winner: 224.0
+Noisy fitness of mutation winner: 224.0
+Crossover offspring real fitness: [253.0, 255.0, 254.0, 255.0, 253.0, 255.0, 254.0, 253.0, 255.0, 255.0, 253.0, 254.0, 253.0, 253.0, 255.0, 253.0, 255.0, 254.0, 253.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 252.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0]
+Crossover offspring noisy fitness: [253.0, 255.0, 254.0, 255.0, 253.0, 255.0, 254.0, 253.0, 255.0, 255.0, 253.0, 254.0, 253.0, 253.0, 255.0, 253.0, 255.0, 254.0, 253.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 252.0, 255.0, 255.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 44
+Real fitness of mutation winner: 213.0
+Noisy fitness of mutation winner: 214.0
+Crossover offspring real fitness: [253.0, 252.0, 253.0, 255.0, 254.0, 253.0, 254.0, 255.0, 254.0, 254.0, 252.0, 253.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0, 255.0, 253.0, 255.0, 253.0, 254.0, 252.0, 254.0, 255.0, 254.0, 255.0, 251.0, 252.0, 255.0, 253.0, 255.0]
+Crossover offspring noisy fitness: [253.0, 252.0, 253.0, 255.0, 254.0, 253.0, 254.0, 255.0, 254.0, 254.0, 252.0, 253.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0, 255.0, 253.0, 255.0, 253.0, 254.0, 252.0, 254.0, 255.0, 254.0, 255.0, 251.0, 252.0, 255.0, 253.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 38
+Real fitness of mutation winner: 219.0
+Noisy fitness of mutation winner: 219.0
+Crossover offspring real fitness: [254.0, 251.0, 254.0, 254.0, 256.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 253.0, 252.0, 254.0, 252.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 252.0, 254.0, 255.0, 254.0, 254.0, 255.0, 254.0, 253.0]
+Crossover offspring noisy fitness: [254.0, 251.0, 254.0, 254.0, 256.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 253.0, 252.0, 254.0, 252.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 252.0, 254.0, 255.0, 254.0, 254.0, 255.0, 254.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 42
+Real fitness of mutation winner: 215.0
+Noisy fitness of mutation winner: 215.0
+Crossover offspring real fitness: [255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 253.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 255.0, 252.0, 254.0, 254.0, 251.0, 254.0, 253.0, 255.0, 252.0, 253.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 253.0, 252.0, 253.0, 254.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 253.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 255.0, 252.0, 254.0, 254.0, 251.0, 253.0, 253.0, 255.0, 252.0, 253.0, 255.0, 255.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 253.0, 252.0, 253.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 37
+Real fitness of mutation winner: 220.0
+Noisy fitness of mutation winner: 220.0
+Crossover offspring real fitness: [255.0, 253.0, 254.0, 254.0, 255.0, 252.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 253.0, 253.0, 252.0, 255.0, 255.0, 252.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 253.0, 254.0, 254.0, 253.0, 251.0, 253.0, 254.0, 255.0, 255.0, 254.0, 253.0, 254.0]
+Crossover offspring noisy fitness: [255.0, 253.0, 254.0, 254.0, 255.0, 252.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 253.0, 253.0, 252.0, 255.0, 255.0, 252.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 253.0, 254.0, 254.0, 253.0, 251.0, 253.0, 254.0, 255.0, 255.0, 254.0, 253.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 33
+Real fitness of mutation winner: 224.0
+Noisy fitness of mutation winner: 224.0
+Crossover offspring real fitness: [254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 250.0, 253.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 254.0, 255.0, 253.0, 255.0, 255.0, 254.0, 255.0, 255.0, 253.0]
+Crossover offspring noisy fitness: [254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 254.0, 254.0, 250.0, 253.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 254.0, 255.0, 253.0, 255.0, 255.0, 254.0, 255.0, 255.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 44
+Real fitness of mutation winner: 213.0
+Noisy fitness of mutation winner: 213.0
+Crossover offspring real fitness: [255.0, 255.0, 255.0, 252.0, 255.0, 253.0, 250.0, 255.0, 256.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 253.0, 254.0, 255.0, 254.0, 255.0, 250.0, 254.0, 255.0, 253.0, 255.0, 254.0, 251.0, 255.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 255.0, 252.0, 255.0, 253.0, 250.0, 255.0, 256.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 253.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 253.0, 254.0, 254.0, 254.0, 255.0, 250.0, 254.0, 254.0, 253.0, 255.0, 254.0, 251.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 40
+Real fitness of mutation winner: 217.0
+Noisy fitness of mutation winner: 217.0
+Crossover offspring real fitness: [253.0, 254.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 251.0, 254.0, 252.0, 254.0, 255.0, 252.0, 255.0, 255.0, 252.0, 255.0, 254.0, 254.0, 253.0, 253.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 252.0, 254.0, 255.0, 251.0, 255.0, 254.0, 255.0, 254.0, 253.0, 252.0, 254.0]
+Crossover offspring noisy fitness: [253.0, 254.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 251.0, 254.0, 252.0, 254.0, 255.0, 252.0, 255.0, 255.0, 251.0, 255.0, 254.0, 254.0, 253.0, 253.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 252.0, 254.0, 255.0, 251.0, 254.0, 254.0, 255.0, 254.0, 253.0, 251.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 30
+Real fitness of mutation winner: 227.0
+Noisy fitness of mutation winner: 227.0
+Crossover offspring real fitness: [255.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 256.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 253.0, 253.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 255.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 253.0, 255.0, 255.0, 256.0, 255.0, 255.0, 255.0, 254.0, 255.0, 254.0, 255.0, 255.0, 254.0, 253.0, 253.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 45
+Real fitness of mutation winner: 212.0
+Noisy fitness of mutation winner: 212.0
+Crossover offspring real fitness: [254.0, 254.0, 255.0, 254.0, 252.0, 254.0, 254.0, 254.0, 252.0, 254.0, 253.0, 253.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 253.0, 255.0, 251.0, 254.0, 253.0, 254.0, 254.0, 254.0, 255.0, 252.0, 253.0, 255.0, 253.0, 253.0, 254.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 255.0, 254.0, 252.0, 254.0, 254.0, 254.0, 252.0, 254.0, 253.0, 253.0, 254.0, 255.0, 253.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 253.0, 255.0, 251.0, 254.0, 253.0, 254.0, 254.0, 254.0, 255.0, 252.0, 253.0, 255.0, 253.0, 253.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 46
+Real fitness of mutation winner: 211.0
+Noisy fitness of mutation winner: 211.0
+Crossover offspring real fitness: [254.0, 253.0, 253.0, 254.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 253.0, 254.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 254.0, 253.0, 252.0, 252.0, 253.0, 254.0, 252.0, 255.0, 254.0, 252.0, 253.0, 254.0, 254.0, 253.0, 254.0, 254.0, 250.0]
+Crossover offspring noisy fitness: [254.0, 253.0, 253.0, 253.0, 253.0, 255.0, 254.0, 255.0, 254.0, 255.0, 253.0, 254.0, 253.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 254.0, 253.0, 252.0, 252.0, 253.0, 253.0, 252.0, 255.0, 254.0, 252.0, 253.0, 254.0, 254.0, 253.0, 253.0, 254.0, 250.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 37
+Real fitness of mutation winner: 220.0
+Noisy fitness of mutation winner: 220.0
+Crossover offspring real fitness: [254.0, 253.0, 252.0, 255.0, 253.0, 255.0, 255.0, 255.0, 252.0, 254.0, 255.0, 254.0, 255.0, 254.0, 255.0, 256.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 253.0, 255.0, 254.0, 255.0, 252.0, 255.0, 253.0, 254.0, 254.0, 256.0, 255.0, 255.0]
+Crossover offspring noisy fitness: [254.0, 253.0, 252.0, 255.0, 253.0, 255.0, 255.0, 255.0, 252.0, 254.0, 255.0, 254.0, 255.0, 254.0, 255.0, 256.0, 255.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 252.0, 254.0, 254.0, 255.0, 252.0, 255.0, 253.0, 254.0, 254.0, 256.0, 255.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 51
+Real fitness of mutation winner: 206.0
+Noisy fitness of mutation winner: 206.0
+Crossover offspring real fitness: [254.0, 254.0, 252.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 251.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 255.0, 253.0, 254.0, 252.0, 255.0, 253.0, 253.0, 255.0, 255.0, 253.0, 252.0, 252.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 253.0, 255.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 252.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 251.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 255.0, 253.0, 254.0, 252.0, 255.0, 253.0, 253.0, 255.0, 255.0, 253.0, 252.0, 252.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 253.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 46
+Real fitness of mutation winner: 211.0
+Noisy fitness of mutation winner: 211.0
+Crossover offspring real fitness: [254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 252.0, 254.0, 253.0, 254.0, 252.0, 253.0, 255.0, 254.0, 253.0, 255.0, 254.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 253.0, 254.0, 253.0, 254.0, 252.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0, 253.0, 254.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 252.0, 254.0, 253.0, 254.0, 252.0, 253.0, 255.0, 254.0, 253.0, 255.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 253.0, 254.0, 253.0, 254.0, 252.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0, 253.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 49
+Real fitness of mutation winner: 208.0
+Noisy fitness of mutation winner: 208.0
+Crossover offspring real fitness: [255.0, 253.0, 254.0, 251.0, 255.0, 252.0, 253.0, 251.0, 254.0, 251.0, 255.0, 254.0, 253.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 254.0, 254.0, 254.0, 253.0, 254.0, 252.0, 253.0, 255.0, 254.0, 255.0, 253.0, 255.0, 252.0, 254.0, 254.0, 254.0, 255.0, 256.0, 255.0, 254.0, 255.0]
+Crossover offspring noisy fitness: [255.0, 253.0, 254.0, 251.0, 255.0, 252.0, 253.0, 251.0, 254.0, 251.0, 254.0, 254.0, 253.0, 253.0, 254.0, 254.0, 255.0, 253.0, 254.0, 254.0, 254.0, 253.0, 253.0, 254.0, 252.0, 253.0, 255.0, 254.0, 255.0, 253.0, 255.0, 252.0, 254.0, 254.0, 254.0, 255.0, 256.0, 254.0, 254.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 42
+Real fitness of mutation winner: 215.0
+Noisy fitness of mutation winner: 215.0
+Crossover offspring real fitness: [252.0, 255.0, 253.0, 255.0, 255.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 253.0, 254.0, 253.0, 251.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 254.0, 250.0, 254.0, 254.0, 254.0, 253.0, 251.0, 254.0, 253.0, 253.0, 255.0, 251.0, 252.0]
+Crossover offspring noisy fitness: [251.0, 255.0, 253.0, 255.0, 255.0, 254.0, 255.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 253.0, 254.0, 253.0, 251.0, 255.0, 255.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 253.0, 250.0, 254.0, 254.0, 254.0, 253.0, 251.0, 254.0, 253.0, 253.0, 255.0, 251.0, 252.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 50
+Real fitness of mutation winner: 207.0
+Noisy fitness of mutation winner: 207.0
+Crossover offspring real fitness: [255.0, 254.0, 253.0, 252.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 253.0, 254.0, 253.0, 255.0, 254.0, 252.0, 252.0, 254.0, 255.0, 250.0, 253.0, 254.0, 254.0, 253.0, 255.0, 253.0, 255.0, 252.0, 255.0, 255.0, 251.0, 254.0, 252.0, 253.0, 255.0, 255.0, 253.0, 255.0, 252.0, 254.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 253.0, 252.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 253.0, 254.0, 253.0, 255.0, 254.0, 252.0, 252.0, 254.0, 255.0, 250.0, 253.0, 253.0, 254.0, 253.0, 255.0, 253.0, 255.0, 252.0, 255.0, 255.0, 251.0, 254.0, 252.0, 253.0, 255.0, 255.0, 253.0, 255.0, 252.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 34
+Real fitness of mutation winner: 223.0
+Noisy fitness of mutation winner: 223.0
+Crossover offspring real fitness: [254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 252.0, 251.0, 254.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 253.0, 255.0, 253.0, 255.0, 255.0, 255.0, 253.0, 255.0, 254.0, 255.0, 252.0, 254.0, 250.0, 255.0]
+Crossover offspring noisy fitness: [254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 252.0, 251.0, 254.0, 255.0, 254.0, 255.0, 255.0, 254.0, 255.0, 255.0, 255.0, 253.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 253.0, 255.0, 253.0, 255.0, 255.0, 255.0, 252.0, 255.0, 254.0, 255.0, 252.0, 254.0, 250.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 33
+Real fitness of mutation winner: 224.0
+Noisy fitness of mutation winner: 224.0
+Crossover offspring real fitness: [255.0, 253.0, 255.0, 254.0, 253.0, 254.0, 253.0, 254.0, 255.0, 252.0, 254.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 253.0]
+Crossover offspring noisy fitness: [255.0, 253.0, 255.0, 254.0, 253.0, 254.0, 252.0, 254.0, 255.0, 252.0, 254.0, 255.0, 255.0, 254.0, 254.0, 255.0, 255.0, 255.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 255.0, 254.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 46
+Real fitness of mutation winner: 211.0
+Noisy fitness of mutation winner: 211.0
+Crossover offspring real fitness: [254.0, 253.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 256.0, 255.0, 251.0, 254.0, 255.0, 255.0, 254.0, 252.0, 252.0, 255.0, 254.0, 254.0, 254.0, 254.0, 253.0, 254.0, 255.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0]
+Crossover offspring noisy fitness: [254.0, 253.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 256.0, 255.0, 251.0, 254.0, 255.0, 254.0, 254.0, 252.0, 252.0, 255.0, 254.0, 254.0, 253.0, 254.0, 253.0, 254.0, 255.0, 254.0, 254.0, 255.0, 253.0, 255.0, 254.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 42
+Real fitness of mutation winner: 215.0
+Noisy fitness of mutation winner: 215.0
+Crossover offspring real fitness: [253.0, 255.0, 251.0, 254.0, 255.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 254.0, 255.0, 252.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 255.0, 252.0, 255.0, 254.0, 251.0, 253.0, 254.0, 255.0, 253.0, 252.0, 254.0, 255.0, 254.0, 255.0, 253.0]
+Crossover offspring noisy fitness: [253.0, 255.0, 251.0, 254.0, 255.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 254.0, 255.0, 254.0, 253.0, 255.0, 254.0, 255.0, 252.0, 253.0, 254.0, 255.0, 255.0, 255.0, 254.0, 255.0, 252.0, 255.0, 254.0, 251.0, 253.0, 254.0, 255.0, 253.0, 252.0, 254.0, 255.0, 254.0, 255.0, 253.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 47
+Real fitness of mutation winner: 210.0
+Noisy fitness of mutation winner: 211.0
+Crossover offspring real fitness: [255.0, 255.0, 254.0, 255.0, 255.0, 253.0, 255.0, 253.0, 252.0, 254.0, 254.0, 254.0, 254.0, 254.0, 255.0, 255.0, 253.0, 253.0, 253.0, 255.0, 255.0, 251.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 253.0, 254.0, 254.0, 254.0, 253.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0, 254.0]
+Crossover offspring noisy fitness: [255.0, 255.0, 254.0, 255.0, 255.0, 253.0, 255.0, 253.0, 252.0, 254.0, 254.0, 254.0, 254.0, 253.0, 255.0, 255.0, 253.0, 253.0, 253.0, 255.0, 255.0, 251.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 253.0, 254.0, 254.0, 254.0, 253.0, 254.0, 253.0, 254.0, 255.0, 255.0, 253.0, 254.0]
+Is bad individual winner: 0
+Is good individual winner: 0
+Real fitness of best good: 255.0
+Noisy fitness of best good: 255.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 26
+Real fitness of mutation winner: 231.0
+Noisy fitness of mutation winner: 231.0
+Crossover offspring real fitness: [254.0, 254.0, 253.0, 255.0, 255.0, 254.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 255.0, 254.0, 252.0, 254.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 256.0, 254.0, 254.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 253.0, 255.0, 255.0, 253.0, 254.0, 255.0, 254.0, 254.0, 255.0, 255.0, 254.0, 255.0, 254.0, 254.0, 254.0, 254.0, 252.0, 254.0, 255.0, 253.0, 254.0, 254.0, 255.0, 255.0, 256.0, 254.0, 253.0, 255.0, 254.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0, 255.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
+l: 39
+Real fitness of mutation winner: 218.0
+Noisy fitness of mutation winner: 218.0
+Crossover offspring real fitness: [254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 256.0, 255.0, 255.0, 254.0, 255.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 254.0, 255.0, 255.0, 253.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 255.0, 254.0, 254.0, 253.0, 255.0, 255.0, 255.0, 255.0, 256.0, 255.0, 254.0, 253.0, 252.0]
+Crossover offspring noisy fitness: [254.0, 254.0, 255.0, 254.0, 254.0, 254.0, 256.0, 255.0, 255.0, 254.0, 255.0, 255.0, 253.0, 254.0, 255.0, 253.0, 253.0, 254.0, 255.0, 255.0, 253.0, 253.0, 254.0, 254.0, 255.0, 253.0, 255.0, 255.0, 254.0, 254.0, 253.0, 255.0, 255.0, 255.0, 255.0, 256.0, 255.0, 254.0, 253.0, 252.0]
+Is bad individual winner: 0
+Is good individual winner: 1
+Real fitness of best good: 256.0
+Noisy fitness of best good: 256.0
+Real fitness of best bad: 254.0
+Noisy fitness of best bad: 254.0
+
