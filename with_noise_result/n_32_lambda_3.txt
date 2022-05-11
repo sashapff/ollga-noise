@@ -3,7 +3,7 @@ lambda: 3
 Median: 43.0
 Mean: 45.359375
 Std: 17.945548880136684
-Number of terminated evaluations (iters > n ^ 3): 0
+Number of terminated evaluations (iters > n ^ 2): 0
 [ 28,  37,  51,  26,  42,  33,  47,  35,  38,  44,  29,  45,  39,  41,  33,
   51,  42,  31,  44,  43,  45, 172,  35,  89,  46,  40,  36,  47,  36,  87,
   25,  39,  32,  58,  59,  52,  69,  40,  54,  67,  31,  43,  35,  50,  52,
