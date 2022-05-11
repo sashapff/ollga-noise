@@ -23,5 +23,5 @@ if __name__ == '__main__':
                 f.write(f'Median: {np.median(iters)}\n')
                 f.write(f'Mean: {iters.mean()}\n')
                 f.write(f'Std: {iters.std()}\n')
-                f.write(f'Number of terminated evaluations (iters > n ^ 2): {len(iters[iters == n ** 3])}\n')
+                f.write(f'Number of terminated evaluations (iters > n ^ 3): {len(iters[iters == n ** 3])}\n')
                 f.write(np.array2string(iters, separator=', '))
