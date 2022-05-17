@@ -24,7 +24,7 @@ if __name__ == '__main__':
     deg_from = 5
     deg_to = 12
 
-    plt.title('Number of iterations to find the optimum, lambda=ln(n)')
+    plt.title('Number of iterations to find the optimum, (1+(lambda, lambda)) GA, lambda=ln(n)')
 
     n_iters_noise_ln = []
     n_iters_without_noise_ln = []
