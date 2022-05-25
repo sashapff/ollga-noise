@@ -22,9 +22,9 @@ if __name__ == '__main__':
     n_threads = 32
     n_runs = 4
     deg_from = 5
-    deg_to = 12
+    deg_to = 9
 
-    plt.title('Number of iterations to find the optimum, (1+(lambda, lambda)) GA, lambda=ln(n)')
+    plt.title('Number of iterations to find the optimum, $\lambda = 0.5\log(n)$')
 
     n_iters_noise_ln = []
     n_iters_without_noise_ln = []
@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
-        for lmbd in [int(log(n)), int(n ** (2 / 3))]:
+        for lmbd in [int(log(n) / 2)]:
             if lmbd == int(log(n)):
                 iters_noise_ln, iters_without_noise_ln = get(n, lmbd, n_threads, n_runs)
 
@@ -73,4 +73,5 @@ if __name__ == '__main__':
     plt.legend()
     plt.xlabel('n')
     plt.ylabel('iterations')
-    plt.show()
+    plt.yscale('log')
+    plt.savefig('plots/lnn2.png')

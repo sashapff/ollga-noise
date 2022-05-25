@@ -13,11 +13,11 @@ if __name__ == '__main__':
         for lmbd in [int(log(n) / 2)]:
             iters = []
             for thread_id in range(n_threads):
-                with open(f'with_noise_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'r') as f:
+                with open(f'without_noise_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'r') as f:
                     for run_id in range(n_runs):
                         iters.append(int(f.readline()))
             iters = np.array(iters)
-            with open(f'with_noise_result/n_{n}_lambda_{lmbd}.txt', 'w') as f:
+            with open(f'without_noise_result/n_{n}_lambda_{lmbd}.txt', 'w') as f:
                 f.write(f'n: {n}\n')
                 f.write(f'lambda: {lmbd}\n')
                 f.write(f'Median: {np.median(iters)}\n')

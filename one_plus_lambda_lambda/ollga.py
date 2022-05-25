@@ -12,12 +12,12 @@ def f(x):
 
 
 def f_noisy(x, q, n):
-    # return f(x)
-    x_noisy = x.copy()
-    for i in range(len(x)):
-        if np.random.uniform() < q / n:
-            flip(x_noisy, i)
-    return f(x_noisy)
+    return f(x)
+    # x_noisy = x.copy()
+    # for i in range(len(x)):
+    #     if np.random.uniform() < q / n:
+    #         flip(x_noisy, i)
+    # return f(x_noisy)
 
 
 def mutation(n, lmbd, q, x):
@@ -70,13 +70,13 @@ def ollga(n, lmbd, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 5
-    deg_to = 12
+    deg_from = 9
+    deg_to = 10
     np.random.seed(thread_id)
     for deg in range(deg_from, deg_to):
         n = 2 ** deg
         for lmbd in [int(log(n) / 2)]:
-            with open(f'with_noise_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
+            with open(f'without_noise_runs/n_{n}_lambda_{lmbd}_thread_{thread_id}.txt', 'w') as f:
                 for run_id in range(n_runs):
                     f.write(f'{ollga(n, lmbd)}\n')
 

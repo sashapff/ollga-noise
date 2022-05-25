@@ -43,8 +43,8 @@ def opo(n, q=1/(6*e)):
 
 
 def thread_main(thread_id, n_runs=4):
-    deg_from = 8
-    deg_to = 9
+    deg_from = 11
+    deg_to = 12
     np.random.seed(thread_id)
     for deg in range(deg_from, deg_to):
         n = 2 ** deg

@@ -21,7 +21,7 @@ def get(n, n_threads, n_runs):
 if __name__ == '__main__':
     n_threads = 32
     n_runs = 4
-    deg_from = 4
+    deg_from = 5
     deg_to = 7
 
     plt.title('Number of iterations to find the optimum, (1+1) EA')
@@ -48,20 +48,77 @@ if __name__ == '__main__':
         #                  color='black', capsize=3)
 
         plt.errorbar(n, iters_noise.mean(),
-                     [[np.quantile(iters_noise, 0.025)],
-                      [np.quantile(iters_noise, 0.975)]],
+                     [[np.std(iters_noise)],
+                      [np.std(iters_noise)]],
                      color='tab:red', capsize=3)
 
         plt.errorbar(n, iters_without_noise.mean(),
-                     [[np.quantile(iters_without_noise, 0.025)],
-                      [np.quantile(iters_without_noise, 0.975)]],
+                     [[np.std(iters_without_noise)],
+                      [np.std(iters_without_noise)]],
                          color='black', capsize=3)
 
         points.append(n)
+
+    n = 90
+    iters_noise, iters_without_noise = get(n, n_threads, n_runs)
+
+    n_iters_noise.append(iters_noise.mean())
+    n_iters_without_noise.append(iters_without_noise.mean())
+
+    plt.errorbar(n, iters_noise.mean(),
+                 [[np.std(iters_noise)],
+                  [np.std(iters_noise)]],
+                 color='tab:red', capsize=3)
+
+    plt.errorbar(n, iters_without_noise.mean(),
+                 [[np.std(iters_without_noise)],
+                  [ np.std(iters_without_noise)]],
+                 color='black', capsize=3)
+
+    points.append(n)
+
+    n = 110
+    iters_noise, iters_without_noise = get(n, n_threads, n_runs)
+
+    n_iters_noise.append(iters_noise.mean())
+    n_iters_without_noise.append(iters_without_noise.mean())
+
+    plt.errorbar(n, iters_noise.mean(),
+                 [[np.std(iters_noise)],
+                  [np.std(iters_noise)]],
+                 color='tab:red', capsize=3)
+
+    plt.errorbar(n, iters_without_noise.mean(),
+                 [[np.std(iters_without_noise)],
+                  [np.std(iters_without_noise)]],
+                 color='black', capsize=3)
+
+    points.append(n)
+
+    n = 128
+    iters_noise, iters_without_noise = get(n, n_threads, n_runs)
+
+    n_iters_noise.append(iters_noise.mean())
+    n_iters_without_noise.append(iters_without_noise.mean())
+
+    print(np.std(iters_without_noise), iters_without_noise.mean(), iters_without_noise.mean() - np.std(iters_without_noise), iters_without_noise.mean() + np.std(iters_without_noise))
+
+    plt.errorbar(n, iters_noise.mean(),
+                 [[np.std(iters_noise)],
+                  [np.std(iters_noise)]],
+                 color='tab:red', capsize=3)
+
+    plt.errorbar(n, iters_without_noise.mean(),
+                 [[np.std(iters_without_noise)],
+                  [np.std(iters_without_noise)]],
+                 color='black', capsize=3)
+
+    points.append(n)
 
     plt.plot(points, n_iters_noise, label='With noise', color='tab:red')
     plt.plot(points, n_iters_without_noise, label='Without noise', color='black')
     plt.legend()
     plt.xlabel('n')
     plt.ylabel('iterations')
+    plt.yscale('log')
     plt.savefig('plots/one_plus_one.png')

@@ -9,8 +9,8 @@ if __name__ == '__main__':
     deg_from = 5
     deg_to = 11
 
-    d_plot_name = '3n/4'
-    d_file_name = '3n_div_4'
+    d_plot_name = '$0.5n$'
+    d_file_name = 'n_div_2'
 
     n_range = []
     logn_bad_winner = []
@@ -134,13 +134,13 @@ if __name__ == '__main__':
     # plt.savefig(f'plot/{d_file_name}_lambda_log(n)_count.png')
 
     plt.clf()
-    plt.title(f'Probability that bad individual wins crossover, fitness={d_plot_name}, 1024 runs')
-    plt.plot(n_range, logn_good_winner, label=f'positive, lambda=log(n)', color='blue')
-    plt.plot(n_range, logn_bad_winner, label=f'negative, lambda=log(n)', color='darkblue')
-    plt.plot(n_range, sqrtn_good_winner, label=f'positive, lambda=sqrt(n)', color='red')
-    plt.plot(n_range, sqrtn_bad_winner, label=f'negative, lambda=sqrt(n)', color='darkred')
-    plt.plot(n_range, n23_good_winner, label=f'positive, lambda=n^(2/3)', color='green')
-    plt.plot(n_range, n23_bad_winner, label=f'negative, lambda=n^(2/3)', color='darkgreen')
+    plt.title(f'fitness={d_plot_name}, 1024 runs')
+    plt.plot(n_range, logn_good_winner, label=f'progress, $\lambda=\log(n)$', color='blue')
+    plt.plot(n_range, logn_bad_winner, label=f'regress, $\lambda=\log(n)$', color='darkblue')
+    plt.plot(n_range, sqrtn_good_winner, label='progress, $\lambda=\sqrt{n}$', color='red')
+    plt.plot(n_range, sqrtn_bad_winner, label='regress, $\lambda=\sqrt{n}$', color='darkred')
+    plt.plot(n_range, n23_good_winner, label='progress, $\lambda=n^{2/3}$', color='green')
+    plt.plot(n_range, n23_bad_winner, label='regress, $\lambda=n^{2/3}$', color='darkgreen')
     plt.legend()
     # plt.yscale('log')
     plt.xlabel('n')
